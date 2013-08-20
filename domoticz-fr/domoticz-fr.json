@@ -113,7 +113,7 @@
 	"On": "On",
 	"Off": "Off",
 	"Daytime": "Journée",
-    "Nighttime": "Nuit",
+	"Nighttime": "Nuit",
 	
 	"No Update Available": "Aucune mise à jour n'est disponible",
 	"Error communicating to server!": "Erreur de communication avec le serveur",
