@@ -516,5 +516,9 @@
 
 	"Release Channel": "Distribution",
 	"Stable": "Stable",
-	"Beta": "Beta"
+	"Beta": "Beta",
+
+	"Raspberry Pi Camera Parameters": "Raspberry Pi Camera paramètres",
+	"Params": "Params",
+	"default": "default"
 }
