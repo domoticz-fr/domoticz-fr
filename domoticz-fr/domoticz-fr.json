@@ -549,11 +549,11 @@
 	"Temp+Hum": "Temp+Hum",
 	"Temp+Hum+Baro": "Temp+Hum+Baro",
 	"No Sensor Type Selected!": "Aucun type de capteur choisi !",
-	"Sensor Created, and can be found in the devices tab!": "Sensor Created, and can be found in the devices tab!",
+	"Sensor Created, and can be found in the devices tab!": "Le capteur créé et peut être trouvé à l'onglet de dispositifs !",
 	"Problem creating Sensor!": "Problème création capteur !",
-	"Add Plan": "Add Plan",
-	"Are you sure you want to delete this Plan": "Are you sure you want to delete this Plan",
-	"(Select Plan first to Edit...)": "(Select Plan first to Edit...)",
-	"No Plan Selected!": "No Plan Selected!",
+	"Add Plan": "Ajoutez plan",
+	"Are you sure you want to delete this Plan": "Etes-vous sûr que vous voulez supprimer ce plan",
+	"(Select Plan first to Edit...)": "(Sélectionnez premier plan à modifier...)",
+	"No Plan Selected!": "Aucun plan sélectionné!",
 	"Switch Icon": "Switch Icon"
 }
