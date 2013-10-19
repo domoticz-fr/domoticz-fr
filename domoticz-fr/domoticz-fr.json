@@ -555,5 +555,7 @@
 	"Are you sure you want to delete this Plan": "Etes-vous sûr que vous voulez supprimer ce plan",
 	"(Select Plan first to Edit...)": "(Sélectionnez premier plan à modifier...)",
 	"No Plan Selected!": "Aucun plan sélectionné!",
-	"Switch Icon": "Switch Icon"
+	"Switch Icon": "Icône",
+	"Room": "Emplacement",
+	"Roomplan": "Emplacements"
 }
