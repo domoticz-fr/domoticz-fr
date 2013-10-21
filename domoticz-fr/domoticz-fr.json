@@ -546,8 +546,8 @@
 	"Actual": "Actuel",
 	"Order": "Order",
 	"Sensor Type": "Type de capteur",
-	"Temp+Hum": "Temp+Hum",
-	"Temp+Hum+Baro": "Temp+Hum+Baro",
+	"Temp+Hum": "Temp+Humidité",
+	"Temp+Hum+Baro": "Temp+Humidité+Baromètre",
 	"No Sensor Type Selected!": "Aucun type de capteur choisi !",
 	"Sensor Created, and can be found in the devices tab!": "Le capteur créé et peut être trouvé à l'onglet de dispositifs !",
 	"Problem creating Sensor!": "Problème création capteur !",
@@ -558,5 +558,5 @@
 	"Switch Icon": "Icône",
 	"Room": "Emplacement",
 	"Roomplan": "Emplacements",
-	"Randomness": "Randomness"
+	"Randomness": "Aléatoire"
 }
