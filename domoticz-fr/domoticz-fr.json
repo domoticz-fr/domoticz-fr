@@ -558,5 +558,7 @@
 	"Switch Icon": "Icône",
 	"Room": "Emplacement",
 	"Roomplan": "Emplacements",
-	"Randomness": "Aléatoire"
+	"Randomness": "Aléatoire",
+	"Guest User": "Utilisateur invité",
+	"None": "Aucun"
 }
