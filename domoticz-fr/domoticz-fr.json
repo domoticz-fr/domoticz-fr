@@ -1,10 +1,10 @@
 {
-	"Dashboard": "Tableau de bord",
+	"Dashboard": "Accueil",
 	"Switches": "Interrupteurs",
 	"Scenes": "Groupes & Scènes",
 	"Temperature": "Températures",
 	"Weather": "Météo",
-	"Utility": "Capteurs de mesure",
+	"Utility": "Utilitaire",
 	"Setup": "Configuration",
 	"Hardware": "Matériel",
 	"Devices": "Périphériques",
