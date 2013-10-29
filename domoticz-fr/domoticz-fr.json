@@ -4,7 +4,7 @@
 	"Scenes": "Groupes & Scènes",
 	"Temperature": "Températures",
 	"Weather": "Météo",
-	"Utility": "Utilitaire",
+	"Utility": "Mesures",
 	"Setup": "Configuration",
 	"Hardware": "Matériel",
 	"Devices": "Périphériques",
@@ -18,7 +18,7 @@
 	"Temperature Sensors": "Capteurs de température",
 	"Weather Sensors": "Capteurs météo",
 	"Security Devices": "Périphériques de sécurité",
-	"Utility Sensors": "Consommations",
+	"Utility Sensors": "Capteurs Mesures",
 	"SunRise" : "Aube",
 	"SunSet" : "Crépuscule",
 
