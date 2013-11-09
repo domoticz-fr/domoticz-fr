@@ -562,5 +562,8 @@
 	"Guest User": "Utilisateur invité",
 	"None": "Aucun",
 	"Are you sure to delete this Active Device?\n\nThis action can not be undone...": "Êtes-vous sûr de vouloir supprimer ce dispositif actif ?\n\nCette action ne peut être annulée...",
-	"Are you sure to delete ALL Active Devices?\n\nThis action can not be undone!!": "Êtes-vous sûr de vouloir supprimer tous les dispositifs actifs ?\n\nCette action ne peut être annulée..."
+	"Are you sure to delete ALL Active Devices?\n\nThis action can not be undone!!": "Êtes-vous sûr de vouloir supprimer tous les dispositifs actifs ?\n\nCette action ne peut être annulée...",
+	"Version": "Version",
+	"Latest Changes": "Derniers changements",
+	"Click Here": "Cliquez ici"
 }
