@@ -565,5 +565,8 @@
 	"Are you sure to delete ALL Active Devices?\n\nThis action can not be undone!!": "Êtes-vous sûr de vouloir supprimer tous les dispositifs actifs ?\n\nCette action ne peut être annulée...",
 	"Version": "Version",
 	"Latest Changes": "Derniers changements",
-	"Click Here": "Cliquez ici"
+	"Click Here": "Cliquez ici",
+	"Color": "Couleur",
+	"Hue": "Nuance",
+	"Brightness": "Luminosité"
 }
