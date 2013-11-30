@@ -568,5 +568,9 @@
 	"Click Here": "Cliquez ici",
 	"Color": "Couleur",
 	"Hue": "Nuance",
-	"Brightness": "Luminosité"
+	"Brightness": "Luminosité",
+	"All": "Tout",
+	"Description": "Description",
+	"EnablePolling": "Activer l'interrogation",
+	"Problem updating Node!": "Problème de mise à jour noeud !"
 }
