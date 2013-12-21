@@ -58,6 +58,9 @@
 	"CheckForSoftwareUpdates": "Vérifier les mises à jour (Ne fonctionne pas sous Windows)",
 	"Check for Update": "Vérifier les mises à jour",
 
+	"AutoBackup": "Automatic Backup",
+	"EnableAutoBackup": "Enable automatic backup",
+
 	"ActiveMenus": "Onglets activés",
 	
 	"Light/Switches": "Luminaires/Interrupteurs",
@@ -131,6 +134,7 @@
 	"Doorbell Command": "Commande de sonnette",
 	"Command": "Commande",
 	"Group On": "Group On",
+
 	"On": "On",
 	"Off": "Off",
 	"Daytime": "Journée",
@@ -581,5 +585,14 @@
 	"Configuration send to node. It the node is asleep, this could take a while!": "Configuration envoyer au noeud. Le noeud est endormi, cela pourrait prendre un certain temps !",
 	"Configuration requested from Node. It the Node is asleep, this could take a while!": "Configuration demandée de Noeud. Le Noeud est endormi, ceci pourrait prendre quelque temps !",
 	"Problem requesting Node Configuration!": "Problème demandant de configuration de noeud !",
-	"Refresh": "Rafraîchir"
+	"Refresh": "Rafraîchir",
+	"(Seconds) 0 = Use sensor time": "(Seconds) 0 = Use sensor time",
+	"(Seconds) 0 = Disabled": "(Seconds) 0 = Disabled",
+	"On Action": "On Action",
+	"Off Action": "Off Action",
+	"Invalid ON Action!": "Invalid ON Action!",
+	"Invalid Off Action!": "Invalid Off Action!",
+	"(Should start with http:// or script://)": "(Should start with http:// or script://)",
+	"AcceptNewHardware": "Hardware/Devices",
+	"AcceptNewHardwareDevices": "Accept new Hardware Devices"
 }
