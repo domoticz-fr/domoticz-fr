@@ -233,7 +233,7 @@
 	
 	"Custom Graph": "Graphe personnalisé",
 	"Add Sensor": "Ajouter un capteur",
-	"Please use the devices tab for this.": "Veuillez utiliser la section 'Périphérique' pour cela.",
+	"Please use the devices tab for this.": "Veuillez utiliser la section 'Périphériques' pour cela.",
 	"Are you sure to remove this Device?": "Etes vous sûr de vouloir supprimer ce périphérique ?",
 	"Select graph type": "Choisir le type de graph",
 	"Select device(s) to display": "Choisir le(s) périphérique(s) à afficher",
@@ -593,6 +593,6 @@
 	"Invalid ON Action!": "Invalide ON Action !",
 	"Invalid Off Action!": "Invalide Off Action !",
 	"(Should start with http:// or script://)": "(Devrait commencer par http:// or script://)",
-	"AcceptNewHardware": "Accepter un nouveau matériel",
+	"AcceptNewHardware": "Matériel/dispositifs",
 	"AcceptNewHardwareDevices": "Accepter de nouveaux périphériques matériels"
 }
