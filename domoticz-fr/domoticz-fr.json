@@ -134,7 +134,6 @@
 	"Doorbell Command": "Commande de sonnette",
 	"Command": "Commande",
 	"Group On": "Group On",
-
 	"On": "On",
 	"Off": "Off",
 	"Daytime": "Journée",
@@ -594,5 +593,11 @@
 	"Invalid Off Action!": "Invalide Off Action !",
 	"(Should start with http:// or script://)": "(Devrait commencer par http:// ou script://)",
 	"AcceptNewHardware": "Matériel/dispositifs",
-	"AcceptNewHardwareDevices": "Accepter de nouveaux périphériques matériels"
+	"AcceptNewHardwareDevices": "Accepter de nouveaux périphériques matériels",
+	"Please select a Priority level!": "S'il vous plaît sélectionner un niveau de priorité !",
+	"Priority": "Priorité",
+	"Very Low": "Très faible",
+	"Moderate": "Modéré",
+	"High": "Elevé",
+	"Emergency": "Urgence"
 }
