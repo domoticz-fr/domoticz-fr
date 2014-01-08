@@ -599,5 +599,7 @@
 	"Very Low": "Très faible",
 	"Moderate": "Modéré",
 	"High": "Elevé",
-	"Emergency": "Urgence"
+	"Emergency": "Urgence",
+	"Counter": "Compteur",
+	"Electric (Instant+Counter)": "Électrique (Instant+Compteur)"
 }
