@@ -601,5 +601,6 @@
 	"High": "Elevé",
 	"Emergency": "Urgence",
 	"Counter": "Compteur",
-	"Electric (Instant+Counter)": "Électrique (Instant+Compteur)"
+	"Electric (Instant+Counter)": "Électrique (Instant+Compteur)",
+	"Forecast": "Prévision"
 }
