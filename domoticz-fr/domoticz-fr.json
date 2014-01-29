@@ -602,5 +602,8 @@
 	"Emergency": "Urgence",
 	"Counter": "Compteur",
 	"Electric (Instant+Counter)": "Électrique (Instant+Compteur)",
-	"Forecast": "Prévision"
+	"Forecast": "Prévision",
+	"Outside Temperature Sensor": "Sonde de température extérieure",
+	"Are you sure to remove this Node?": "Etes-vous sûr de vouloir supprimer ce nœud ?",
+	"Node marked for Delete. This could take some time!": "Noeud marqué pour suppression. Cela pourrait prendre un certain temps !"
 }
