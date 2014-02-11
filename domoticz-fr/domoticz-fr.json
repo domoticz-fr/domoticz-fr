@@ -604,6 +604,7 @@
 	"Electric (Instant+Counter)": "Électrique (Instant+Compteur)",
 	"Forecast": "Prévision",
 	"Outside Temperature Sensor": "Sonde de température extérieure",
-	"Are you sure to remove this Node?": "Etes-vous sûr de vouloir supprimer ce nœud ?",
-	"Node marked for Delete. This could take some time!": "Noeud marqué pour suppression. Cela pourrait prendre un certain temps !"
+	"Are you sure to remove this Node?": "Etes-vous sûr de vouloir supprimer ce noeud ?",
+	"Node marked for Delete. This could take some time!": "Noeud marqué pour suppression. Cela pourrait prendre un certain temps !",
+	"Baudrate": "Vitesse de transmission"
 }
