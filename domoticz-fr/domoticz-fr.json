@@ -71,6 +71,8 @@
 	"API Key": "Clé d'API",
 	"To get a free account/API key click": "Pour obtenir un compte gratuit/une clé d'API cliquez",
 	"NMA (Android)": "NMA (Android)",
+	"Pushover (Android/iOs)": "Pushover (Android/iOs)",
+	"User ID": "User ID",
 	"Notification Intervals": "Intervalles de notification",
 	"Minute": "Minute",
 	"Minutes": "Minutes",
@@ -150,7 +152,9 @@
 	"Please enter a Address to search for!...": "Entrez l'adresse à rechercher !",
 	"Geocode was not successful for the following reason": "Impossible de géocoder votre adresse pour la raison suivante",
 	"Please enter the API key!...": "Entrez la clé d'API !",
+	"Please enter the user id!...": "Please enter the user id!...",
 	"Notification send!<br>Should arrive at your device soon...": "Notification envoyée ! Elle devrait bientôt apparaître sur le périphérique...",
+	"Problem sending notification, please check credentials!": "Problem sending notification, please check credentials!",	
 	"Invalid Email Settings...": "Configuration email invalide...",
 	"Invalid Email From/To Settings...": "Adresse email invalide dans le champ De/A...",
 	"Please enter an Email Password...": "Entrez le mot de passe associé...",
@@ -606,5 +610,13 @@
 	"Outside Temperature Sensor": "Sonde de température extérieure",
 	"Are you sure to remove this Node?": "Etes-vous sûr de vouloir supprimer ce noeud ?",
 	"Node marked for Delete. This could take some time!": "Noeud marqué pour suppression. Cela pourrait prendre un certain temps !",
-	"Baudrate": "Vitesse de transmission"
+	"Baudrate": "Vitesse de transmission",
+
+	"A Database restore will overwrite the actual settings/logs.": "A Database restore will overwrite the actual settings/logs.",
+	"Please be sure that this is what you want to do!": "Please be sure that this is what you want to do!",
+	"Upload might take some time, depending on your network connection.": "Upload might take some time, depending on your network connection.",
+	"Wait until you will see the dashboard again!": "Wait until you will see the dashboard again!",
+	"Select Database File:": "Select Database File:",
+	"Restore Database": "Restore Database",
+	"AllowWidgetOrdering": "Allow Widget Re-Order"
 }
